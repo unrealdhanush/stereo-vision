@@ -32,9 +32,11 @@ python sift_keypoint_matching.py
 The script will display three main visual outputs if the matching criteria are met:
 
 1. An image showing keypoints matched between the two images.
-   ![Example 1](example_1/results/Figure_1.png)     ![Example 2](example_2/results/Figure_1.png)
+   ![Example 1](example_1/results/Figure_1.png)
 2. An image showing the transformation (homography) applied to locate one image in the other.
-4. A disparity map indicating depth perception between the two images.
+   ![Example 1](example_1/results/Figure_2.png)
+3. A disparity map indicating depth perception between the two images.
+   ![Example 1](example_1/results/Figure_3.png)
 
 ## Notes
 
